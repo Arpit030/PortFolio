@@ -108,7 +108,7 @@ function About() {
           <p>
             Hey there,👋 I'm Arpit, a 21-year-old CSE undergrad passionate about Software Development, UI/UX Design, and Product Management. Currently, I'm pursuing my career as a Full Stack Web Developer 👨🏻‍💻. I share my learnings through speaking engagements and write-ups.
           </p>
-          <a href="./ArpitResume6.pdf" download="ArpitResume6.pdf" className="resumeButton">
+          <a href="./ArpitVermaFR.pdf" download="ArpitVermaFR.pdf" className="resumeButton">
             <span>Resume</span>
             <img src={assets.file} alt="Resume Icon" />
           </a>
